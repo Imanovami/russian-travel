@@ -4,6 +4,7 @@
 @import url(../website/__link/website__link.css);
 @import url(../website/__url-heading/website__url-heading.css);
 @import url(../place/__paragraph/place__paragraph.css);
+@import url(../place/__paragraphes/place__paragraphes.css);
 
 .places {
     padding: 92px 148px 0;  
@@ -21,8 +22,8 @@
     }  
 }
 
-@media (max-width: 900px) {
+@media (max-width: 720px) {
     .places {
-        padding: 64px 16px 0;  
+        padding: 64px 0 0;  
     }  
 }

@@ -14,7 +14,14 @@
 
 @media (max-width: 1020px) {
     .lead {
-    padding: 56px 0 0;
+    padding: 56px 48px 0;
+    }
+}
+
+@media (max-width: 900px) {
+    .lead {
+    padding-left: 0;
+    padding-right: 0;
     }
 }
 

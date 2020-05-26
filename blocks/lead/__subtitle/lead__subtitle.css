@@ -9,7 +9,7 @@ margin: 32px 0 64px;
 }
 
   @media (max-width: 1050px) {
-    .lead__subtitle{
+    .lead__subtitle {
         margin-bottom: 56px;
     }
   }
