@@ -1,0 +1,11 @@
+.website {
+    margin-bottom: 48px;
+    align-self: end;
+}
+
+@media screen and (max-width: 720px) {
+    .website {
+      display: none;
+    }
+  }
+  

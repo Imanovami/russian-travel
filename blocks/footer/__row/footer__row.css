@@ -1,0 +1,10 @@
+.footer__row {
+    display: flex;
+    padding-left: 0;
+}
+
+@media (max-width: 720px) {
+    .footer__row {
+        flex-direction: column;
+    }
+}
