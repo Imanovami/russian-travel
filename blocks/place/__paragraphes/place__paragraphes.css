@@ -2,19 +2,11 @@
 
 }
 
-@media (max-width: 720px)
-{
+@media (max-width: 720px) {
     .place__paragraphes {
-         max-width: 400px;
-         justify-self: center;
+        padding: 0 16px;
+        justify-self: center;
     }
 }
 
 
-@media (max-width: 400px)
-{
-    .place__paragraphes {
-         max-width: 288px;
-         justify-self: center;
-    }
-}
