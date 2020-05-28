@@ -5,31 +5,31 @@
 
 
 .cover {
-    background-image: url(../../images/cover-trains.jpg);
-    max-width: 1184px;
-    background-position: center;
-    background-size: cover;
-    margin: 0 auto;
-    margin-top: 92px;
+  background-image: url(../../images/cover-trains.jpg);
+  max-width: 1184px;
+  background-position: center;
+  background-size: cover;
+  margin: 0 auto;
+  margin-top: 92px;
     
 }
 
 @media (max-width: 1200px) {
-    .cover {
-        max-width: 100%;
-    }
+  .cover {
+    max-width: 100%;
+  }
 } 
 
 @media (max-width: 1000px) {
-    .cover {
-        margin-top: 88px;
-    }
+  .cover {
+    margin-top: 88px;
+  }
 }
 
 @media (max-width: 800px) {
-    .cover {
-        margin-top: 64px;
-    }
+  .cover {
+    margin-top: 64px;
+  }
 }
 
 

@@ -1,19 +1,18 @@
 .place__paragraph {
-    max-width: 100%;
-    margin: 0;
-    font-size: 18px;
-    line-height: 30px;
-    color: #FFFFFF;
+  max-width: 100%;
+  margin: 0;
+  font-size: 18px;
+  line-height: 30px;
+  color: #FFFFFF;
 }
 
 .place__paragraph:last-of-type {
-    margin-top: 24px;
+  margin-top: 24px;
+}
+
+@media (max-width: 900px) {
+  .place__paragraph {
+    font-size: 16px;
+    line-height: 26px;
   }
-
-
-  @media (max-width: 900px) {
-    .place__paragraph {
-        font-size: 16px;
-        line-height: 26px;
-    }
 }

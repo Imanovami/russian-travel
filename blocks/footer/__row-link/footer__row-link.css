@@ -1,15 +1,15 @@
 .footer__row-link {
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 18px;
-    color: #FFFFFF;
-    text-decoration: none;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 18px;
+  color: #FFFFFF;
+  text-decoration: none;
 }
 
 @media (max-width: 720px) {
-    .footer__row-link {
-        font-size: 24px;
-        line-height: 24px;
-    }
+  .footer__row-link {
+    font-size: 24px;
+    line-height: 24px;
+  }
 }
 

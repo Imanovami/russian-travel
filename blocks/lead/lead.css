@@ -5,23 +5,17 @@
 @import url(./__block/lead__block.css);
 
 .lead {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 56px 148px 0;
-    box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 56px;
+  box-sizing: border-box;
 }
 
-@media (max-width: 1020px) {
-    .lead {
-    padding: 56px 48px 0;
-    }
+@media (max-width: 1050px){
+  .lead {
+    padding-top: 48px;
+  }
 }
 
-@media (max-width: 900px) {
-    .lead {
-    padding-left: 0;
-    padding-right: 0;
-    }
-}
 

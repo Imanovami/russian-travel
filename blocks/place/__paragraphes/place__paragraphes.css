@@ -3,10 +3,10 @@
 }
 
 @media (max-width: 720px) {
-    .place__paragraphes {
-        padding: 0 16px;
-        justify-self: center;
-    }
+  .place__paragraphes {
+    padding: 32px 16px 0;
+    justify-self: center;
+  }
 }
 
 
